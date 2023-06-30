@@ -46,7 +46,7 @@ cd 'path to melthify app'
 2.Install the required dependencies by running the following command:
 
 ```console
-cd app/server
+cd server
 npm i
 ```
 
@@ -65,7 +65,7 @@ Client-Side (React):
 1.Open a new terminal and navigate to the project's client directory.
 
 ```console
-cd 'path to melthify app'
+cd 'path to app'
 ```
 
 2.Install the required dependencies by running the following command:

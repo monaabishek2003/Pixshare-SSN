@@ -6,6 +6,10 @@ post pictures, like posts, and enjoy a seamless experience with dark mode and li
 The project is built using the MERN (MongoDB, Express.js, React, Node.js) stack, providing a robust 
 and modern foundation for the application.</p>
 
+<img src = './samples/sample1.png' width='1920px'  object-fit='contain'/>
+<img src = './samples/sample2.png' width='1920px'  object-fit='contain'/>
+
+
 <p>
 Technologies Used:
 <p/>

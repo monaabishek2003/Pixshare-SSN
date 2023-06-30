@@ -39,7 +39,7 @@ Make sure you have Node.js installed on your machine.
 1.Open a terminal and navigate to the project's root directory.
 
 ```console
-cd 'path to melthify app'
+cd 'path to app'
 ```
 
 

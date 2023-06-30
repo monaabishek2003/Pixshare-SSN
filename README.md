@@ -1,4 +1,4 @@
-###PixShare-SSN
+##PixShare-SSN
 <p>
 PixShare-SSN is a web application designed for students to share and cherish 
 their beautiful memories of college life. With PixShare-SSN, users can connect with friends, 

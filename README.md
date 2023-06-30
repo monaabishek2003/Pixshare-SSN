@@ -8,6 +8,7 @@ and modern foundation for the application.</p>
 
 <img src = './samples/sample1.png' width='1920px'  object-fit='contain'/>
 <img src = './samples/sample2.png' width='1920px'  object-fit='contain'/>
+<img src = './samples/sample3.png' width='1920px'  object-fit='contain'/>
 
 
 <p>
